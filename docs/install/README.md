@@ -433,3 +433,4 @@ Instead, add this line to your instance's <tt>/etc/rc.local</tt> file, just abov
 /etc/init.d/celeryd start 
 exit 0
 ```
+Thank You and use this code
